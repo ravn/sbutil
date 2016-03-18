@@ -3,9 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>dk.statsbiblioteket.sbutil</groupId>
+        <groupId>dk.statsbiblioteket.sbutil.repo.https_3A_2F_2Fgithub_2Ecom_2Fravn_2Fsbutil_2Egit</groupId>
         <artifactId>sbutil-webservices</artifactId>
-        <version>0.5.35-SNAPSHOT</version>
+        <version>master-SNAPSHOT</version>
     </parent>
 
     <artifactId>sbutil-webservices-logback</artifactId>
