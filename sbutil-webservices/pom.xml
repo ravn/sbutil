@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>dk.statsbiblioteket.sbutil</groupId>
+        <groupId>dk.statsbiblioteket.sbutil.repo.https_3A_2F_2Fgithub_2Ecom_2Fravn_2Fsbutil_2Egit</groupId>
         <artifactId>sbutil</artifactId>
         <version>0.5.13</version>
     </parent>
