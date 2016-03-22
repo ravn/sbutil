@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>dk.statsbiblioteket.sbutil</groupId>
+    <groupId>dk.statsbiblioteket.sbutil.repo.https_3A_2F_2Fgithub_2Ecom_2Fravn_2Fsbutil_2Egit</groupId>
     <artifactId>sbutil</artifactId>
     <version>0.5.29</version>
     <packaging>pom</packaging>
@@ -11,7 +11,7 @@
     <url>http://maven.apache.org</url>
 
     <parent>
-        <groupId>org.sbforge</groupId>
+        <groupId>org.sbforge.repo.https_3A_2F_2Fgithub_2Ecom_2Fravn_2Fsbforge_2Dparent_2Egit</groupId>
         <artifactId>sbforge-parent</artifactId>
         <version>12</version>
     </parent>
